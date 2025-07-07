@@ -1,6 +1,6 @@
 You're all set!
 
-1.  Press **F5** or click the green "play" button (with `HMS.Web` selected) at the top of Visual Studio to build and run your project.
+1.  Press **F5** or click the green "play" button (with `HMS` selected) at the top of Visual Studio to build and run your project.
 2.  Your web browser will open to the home page.
 3.  Click the **"Patients"** link in the navigation bar.
 
